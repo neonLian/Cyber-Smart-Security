@@ -16,6 +16,6 @@ This project compared various machine and deep learning models in detecting cybe
 
 The dataset used is CIC-IDS2017 from the Canadian Institute for Cybersecurity, which can be found [here.](https://www.unb.ca/cic/datasets/ids-2017.html)
 
-The [PowerPoint presentation](Scifair20%20Presentation.pptx) in this repo contains a detailed writeup on each part of the project.
+The [PowerPoint presentation](Scifair20Presentation.pdf) in this repo contains a detailed writeup on each part of the project.
 
 The [Notebooks](Notebooks) folder contains Jupyter Notebooks with the code I wrote for the project.
