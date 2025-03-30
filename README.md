@@ -1,8 +1,6 @@
 # Cyber Smart Security
 ## Artificial Intelligence for Network Intrusion Detection Systems
 
-This repository contains the code used for my 2019-2020 science fair project.
-
 This project compared various machine and deep learning models in detecting cyberattacks based on network packet data. The models tested were:
 * Support Vector Machines
 * K-Nearest Neighbors
